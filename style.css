@@ -1,0 +1,10 @@
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding: 16px;
+    background-color: aliceblue;
+    height: 200px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
